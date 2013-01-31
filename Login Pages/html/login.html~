@@ -1,0 +1,44 @@
+<html>
+<head>
+  <title> Login Page </title>
+    <script src="/home/reshma/Login Pages/JS/login_validate.js">
+    </script>
+    <link rel="stylesheet" type="text/css" href="/home/reshma/Login Pages/CSS/login_.css">
+
+  </head>
+<body bgcolor="C0C0C0">
+<form name="frm_login" method="post" action="vlidate_msg.html" onsubmit="return validateForm()" >
+   <div class="Menu">
+      <center>
+       <a href="home.html"> Home &nbsp;&nbsp;|&nbsp;&nbsp; </a>
+       <a href="home.html">About Us &nbsp;&nbsp;|&nbsp;&nbsp; </a>
+       <a href="home.html">Carrier &nbsp;&nbsp;| &nbsp;&nbsp; </a>
+       <a href="home.html">Contact Us &nbsp;&nbsp;|&nbsp;&nbsp; </a>
+       <a href="home.html">Help </a> </center>
+    </div>
+<br>
+<br>
+<hr>
+<blink> Hi You want to login </blink>
+<h1 class="font"> Login Screen </h1>
+<p class="margin"> 
+   User Name<br><br>
+   <input type="text" name="usr_nm"> 
+   <br>
+   <br>Password <br><br>
+   <input type="password" name="pwd_nm"> 
+   <br><br>
+   <input type="submit" value="submit">
+   <br><br>
+</p>
+<br>
+<br>
+
+<br>
+<br>
+<hr>
+<center>all rights are reserve <img src="/home/reshma/Login Pages/html/1.gif" height="20" width="20"></center>
+</form>
+</body>
+</html>
+

@@ -1,0 +1,39 @@
+.font
+  {
+     font-size:40px;
+     color:778899;
+     text-align:center;
+  }
+.Menu
+  {
+     
+     background-color:#2F4F4F;
+     font-style:italic;
+     font-size:30px;
+     color:#AA8F71; 
+  
+  }
+
+a:link {color:#BC8F8F; text-decoration:none;}    
+a:visited {color:#A52A2A; text-decoration:none;} 
+a:hover {color:800000; text-decoration:underline;}   
+a:active {color:#0000FF;text-decoration:none;}
+
+p
+{
+width:200px;
+height:200px;
+padding-top:25px;
+padding-bottom:25px;
+padding-right:50px;
+padding-left:50px; 
+ 
+}
+p.margin
+{
+margin-top:100px;
+margin-bottom:100px;
+margin-right:500px;
+margin-left:450px;
+background-color:808080;
+}
